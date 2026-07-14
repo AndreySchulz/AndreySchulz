@@ -1,7 +1,7 @@
-<h1 align="center">Привет, я Андрей 👋</h1>
+<h1 align="center">Hi, I'm Andrey 👋</h1>
 
 <p align="center">
-  Frontend-разработчик · JavaScript / TypeScript / React / React Native
+  Frontend Developer · JavaScript / TypeScript / React / React Native
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### 📊 GitHub статистика
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreySchulz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 📫 Связаться со мной
+### 📫 Get in Touch
 
 <p align="center">
   <a href="mailto:andreygorb040693@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
