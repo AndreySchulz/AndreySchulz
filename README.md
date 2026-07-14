@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrey 👋</h1>
 
 <p align="center">
-  Frontend Developer · JavaScript / TypeScript / React / React Native
+  Full Stack Developer · JavaScript / TypeScript / React / React Native / Node.js
 </p>
 
 <p align="center">
